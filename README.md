@@ -28,7 +28,7 @@ By the end of this course, students will be able to:
 | Week | Lecture Title | PDF | Video |
 |------|---------------|-----|-------|
 | 1 | Module 1: The ARM Assembly Language | [PDF](https://github.com/tmamado14/co513/blob/main/week1/CO%20513%20-%20M1.pdf) | [Lecture Video](https://youtu.be/cSY-v-unfGA) |
-| 2 | Module 2: ARMv7 DE1-SoC I/O Devices | [PDF](https://github.com/tmamado14/co513/blob/main/week2/CO%20513%20-%20M2.pdf) |  |
+| 2 | Module 2: ARMv7 DE1-SoC I/O Devices | [PDF](https://github.com/tmamado14/co513/blob/main/week2/CO%20513%20-%20M2.pdf) | [Lecture Video](https://youtu.be/3cjs85EuOTA) |
 | 3 |  |  |  |
 | 4 |  |  |  |
 | 5 |  |  |  |
